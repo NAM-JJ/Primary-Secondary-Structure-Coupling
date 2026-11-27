@@ -15,4 +15,3 @@ testdata.xlsx: Test dataset for different primary structural periods
 testdata2.xlsx: Additional test dataset for different mass ratios  
 # Data Availability
 Due to the large file size, the original data files are available at: 
-https://mega.nz/folder/ONwkzCaK#XloHhnTedOXT46qmxgHlWg
