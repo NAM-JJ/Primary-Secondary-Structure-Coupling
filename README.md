@@ -13,3 +13,5 @@ traindata.xlsx: Training dataset
 valdata.xlsx: Validation dataset  
 testdata.xlsx: Test dataset for different primary structural periods  
 testdata2.xlsx: Additional test dataset for different mass ratios  
+# Original data
+Due to file size limitations, the original data files are available at: https://mega.nz/folder/ONwkzCaK#XloHhnTedOXT46qmxgHlWg.
